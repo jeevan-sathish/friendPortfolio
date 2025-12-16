@@ -23,8 +23,7 @@ Here are placeholders for images/screenshots of the application:
 
 1. ![Screenshot 1](./kp//public/1.png)  
 2. ![Screenshot 2](./kp//public/2.png)  
-3. ![Screenshot 3](./kp//public/3.png)  
-4. ![Screenshot 4](./kp//public/4.png)  
+3. ![Screenshot 3](./kp//public/3.png)   
 5. ![Screenshot 5](./kp//public/5.png)  
 6. ![Screenshot 6](./kp//public/6.png)  
 7. ![Screenshot 7](./kp//public/7.png)  
